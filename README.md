@@ -1,4 +1,4 @@
-<h2 align=center>Aztec Sequencer Node Guide</h2>
+<h2 align=center>Aztec Sequencer Node Guide By Airdrop Insider </h2>
 
 Aztec is building a decentralized, privacy-focused network and the sequencer node is a key part of it. Running a sequencer helps produce and propose blocks using regular consumer hardware. This guide will walk you through setting one up on the testnet.
 
